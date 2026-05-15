@@ -2,8 +2,8 @@
 **Kinetrexa Software Private Limited — Python Development Internship**
 
 ### Intern Information
-* **Name:** Pratyush
-* **Application ID:** 8GNC9PDMA
+* **Name:** Suryansh Tripathi
+* **Application ID:** 59JDLQTW
 * **Task:** #3 Automation Script (File Handling)
 
 ---
